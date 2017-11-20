@@ -1,0 +1,1 @@
+Fastest way to Install Laravel on centos 7
